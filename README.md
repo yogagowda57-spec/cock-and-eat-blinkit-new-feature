@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Yogananda H S 😎
 
 > 💻 `while(alive) { code(); }`
+> READ REMEMBER REVICE
 
 ### 🧠 About Me
 
