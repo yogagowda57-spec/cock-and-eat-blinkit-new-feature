@@ -8,7 +8,7 @@
 * 🎓 AIML Engineering Student
 * 🐍 Python learner
 * 🌐 HTML + CSS enjoyer
-* ☕ Powered by caffeine and `print("Hello World")`
+* ☕ Powered by caffeine and `print("Hello github")`
 * 🧠 Currently teaching my brain how to understand **DSA**
 * 🐛 Professional bug creator & part-time bug fixer
 * 🚀 Building projects instead of sleeping
