@@ -1,4 +1,4 @@
-# 🍳 Cook & Eat
+### 🍳 Cook & Eat
 ### From Craving to Cooking.
 
 > **A recipe-based grocery shopping experience that helps people discover dishes, calculate exact ingredient quantities, order only what they need, and cook with confidence.**
