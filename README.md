@@ -4,8 +4,11 @@
 > **A recipe-based grocery shopping experience that helps people discover dishes, calculate exact ingredient quantities, order only what they need, and cook with confidence.**
 
 ![Project Status](https://img.shields.io/badge/Status-In%20Development-orange)
+
 ![Project Type](https://img.shields.io/badge/Project-Product%20Concept-blue)
+
 ![Platform](https://img.shields.io/badge/Platform-Web%20Application-green)
+
 ![AI](https://img.shields.io/badge/AI-Gemini-purple)
 
 ---
